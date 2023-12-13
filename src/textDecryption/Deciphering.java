@@ -1,4 +1,4 @@
-package apokruptograffisiKeimenou;
+package textDecryption;
 
 public class Deciphering {
 
@@ -9,7 +9,8 @@ public class Deciphering {
 		
 		for(int i=0; i<cipher_text_char_array.length; i++) {
 			char current_char = cipher_text_char_array[i];
-			if (current_char == ' ') continue;
+			if (current_char == ' ') 
+				continue;
 			
 			int originalAlphabetPosition = current_char - 'a';
 			

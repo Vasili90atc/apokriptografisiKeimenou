@@ -1,4 +1,4 @@
-package apokruptograffisiKeimenou;
+package textDecryption;
 
 import java.util.Scanner;
 
