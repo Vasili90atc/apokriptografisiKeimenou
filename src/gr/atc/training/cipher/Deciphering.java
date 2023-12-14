@@ -1,4 +1,4 @@
-package textDecryption;
+package gr.atc.training.cipher;
 
 public class Deciphering {
 
